@@ -1,0 +1,180 @@
+2024-08-25 18:43:39,676 - Watching for file changes with StatReloader
+2024-08-25 18:44:04,718 - Watching for file changes with StatReloader
+2024-08-25 18:44:07,082 - Message received: hello
+2024-08-25 18:44:07,082 - Response sent: hi
+2024-08-25 18:44:07,093 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:08,102 - Message received: hello
+2024-08-25 18:44:08,102 - Response sent: hi
+2024-08-25 18:44:08,103 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:09,110 - Message received: hello
+2024-08-25 18:44:09,110 - Response sent: hi
+2024-08-25 18:44:09,112 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:38,107 - Message received: hello
+2024-08-25 18:44:38,107 - Response sent: hi
+2024-08-25 18:44:38,110 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:39,117 - Message received: hello
+2024-08-25 18:44:39,117 - Response sent: hi
+2024-08-25 18:44:39,117 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:40,179 - Message received: hello
+2024-08-25 18:44:40,179 - Response sent: hi
+2024-08-25 18:44:40,181 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:41,191 - Message received: hello
+2024-08-25 18:44:41,191 - Response sent: hi
+2024-08-25 18:44:41,192 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:42,213 - Message received: hello
+2024-08-25 18:44:42,213 - Response sent: hi
+2024-08-25 18:44:42,233 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:43,247 - Message received: hello
+2024-08-25 18:44:43,248 - Response sent: hi
+2024-08-25 18:44:43,248 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:44,725 - Message received: hello
+2024-08-25 18:44:44,728 - Response sent: hi
+2024-08-25 18:44:44,731 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:45,741 - Message received: hello
+2024-08-25 18:44:45,742 - Response sent: hi
+2024-08-25 18:44:45,743 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:46,761 - Message received: hello
+2024-08-25 18:44:46,761 - Response sent: hi
+2024-08-25 18:44:46,762 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:47,788 - Message received: hello
+2024-08-25 18:44:47,788 - Response sent: hi
+2024-08-25 18:44:47,789 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:44:48,830 - Message received: hello
+2024-08-25 18:44:48,831 - Response sent: hi
+2024-08-25 18:44:48,831 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:58:59,552 - Watching for file changes with StatReloader
+2024-08-25 18:58:59,802 - Message received: hello
+2024-08-25 18:58:59,803 - Response sent: hi
+2024-08-25 18:58:59,805 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:00,817 - Message received: hello
+2024-08-25 18:59:00,817 - Response sent: hi
+2024-08-25 18:59:00,825 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:01,837 - Message received: hello
+2024-08-25 18:59:01,841 - Response sent: hi
+2024-08-25 18:59:01,843 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:02,863 - Message received: hello
+2024-08-25 18:59:02,867 - Response sent: hi
+2024-08-25 18:59:02,870 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:03,890 - Message received: hello
+2024-08-25 18:59:03,890 - Response sent: hi
+2024-08-25 18:59:03,892 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:04,919 - Message received: hello
+2024-08-25 18:59:04,919 - Response sent: hi
+2024-08-25 18:59:04,919 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:05,932 - Message received: hello
+2024-08-25 18:59:05,933 - Response sent: hi
+2024-08-25 18:59:05,937 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:06,958 - Message received: hello
+2024-08-25 18:59:06,958 - Response sent: hi
+2024-08-25 18:59:06,959 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:07,971 - Message received: hello
+2024-08-25 18:59:07,972 - Response sent: hi
+2024-08-25 18:59:07,973 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:09,017 - Message received: hello
+2024-08-25 18:59:09,019 - Response sent: hi
+2024-08-25 18:59:09,020 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:10,031 - Message received: hello
+2024-08-25 18:59:10,032 - Response sent: hi
+2024-08-25 18:59:10,032 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:11,052 - Message received: hello
+2024-08-25 18:59:11,054 - Response sent: hi
+2024-08-25 18:59:11,055 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:12,070 - Message received: hello
+2024-08-25 18:59:12,071 - Response sent: hi
+2024-08-25 18:59:12,072 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:13,098 - Message received: hello
+2024-08-25 18:59:13,098 - Response sent: hi
+2024-08-25 18:59:13,099 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:14,115 - Message received: hello
+2024-08-25 18:59:14,115 - Response sent: hi
+2024-08-25 18:59:14,116 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:15,141 - Message received: hello
+2024-08-25 18:59:15,142 - Response sent: hi
+2024-08-25 18:59:15,144 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:16,156 - Message received: hello
+2024-08-25 18:59:16,156 - Response sent: hi
+2024-08-25 18:59:16,159 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:17,172 - Message received: hello
+2024-08-25 18:59:17,173 - Response sent: hi
+2024-08-25 18:59:17,177 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:18,213 - Message received: hello
+2024-08-25 18:59:18,215 - Response sent: hi
+2024-08-25 18:59:18,217 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:19,248 - Message received: hello
+2024-08-25 18:59:19,249 - Response sent: hi
+2024-08-25 18:59:19,251 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:20,263 - Message received: hello
+2024-08-25 18:59:20,263 - Response sent: hi
+2024-08-25 18:59:20,266 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:21,285 - Message received: hello
+2024-08-25 18:59:21,286 - Response sent: hi
+2024-08-25 18:59:21,286 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:22,305 - Message received: hello
+2024-08-25 18:59:22,306 - Response sent: hi
+2024-08-25 18:59:22,342 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:23,396 - Message received: hello
+2024-08-25 18:59:23,396 - Response sent: hi
+2024-08-25 18:59:23,397 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:24,414 - Message received: hello
+2024-08-25 18:59:24,414 - Response sent: hi
+2024-08-25 18:59:24,416 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:25,431 - Message received: hello
+2024-08-25 18:59:25,432 - Response sent: hi
+2024-08-25 18:59:25,433 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:26,448 - Message received: hello
+2024-08-25 18:59:26,448 - Response sent: hi
+2024-08-25 18:59:26,449 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:27,475 - Message received: hello
+2024-08-25 18:59:27,475 - Response sent: hi
+2024-08-25 18:59:27,477 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:28,507 - Message received: hello
+2024-08-25 18:59:28,508 - Response sent: hi
+2024-08-25 18:59:28,511 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:30,051 - Message received: hello
+2024-08-25 18:59:30,056 - Response sent: hi
+2024-08-25 18:59:30,060 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:31,078 - Message received: hello
+2024-08-25 18:59:31,078 - Response sent: hi
+2024-08-25 18:59:31,084 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:32,159 - Message received: hello
+2024-08-25 18:59:32,160 - Response sent: hi
+2024-08-25 18:59:32,182 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:33,241 - Message received: hello
+2024-08-25 18:59:33,241 - Response sent: hi
+2024-08-25 18:59:33,243 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:34,292 - Message received: hello
+2024-08-25 18:59:34,293 - Response sent: hi
+2024-08-25 18:59:34,294 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:35,332 - Message received: hello
+2024-08-25 18:59:35,332 - Response sent: hi
+2024-08-25 18:59:35,333 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:36,355 - Message received: hello
+2024-08-25 18:59:36,355 - Response sent: hi
+2024-08-25 18:59:36,359 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:37,396 - Message received: hello
+2024-08-25 18:59:37,396 - Response sent: hi
+2024-08-25 18:59:37,397 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:38,418 - Message received: hello
+2024-08-25 18:59:38,421 - Response sent: hi
+2024-08-25 18:59:38,425 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:39,477 - Message received: hello
+2024-08-25 18:59:39,478 - Response sent: hi
+2024-08-25 18:59:39,479 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:40,520 - Message received: hello
+2024-08-25 18:59:40,520 - Response sent: hi
+2024-08-25 18:59:40,529 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:41,552 - Message received: hello
+2024-08-25 18:59:41,552 - Response sent: hi
+2024-08-25 18:59:41,553 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:42,576 - Message received: hello
+2024-08-25 18:59:42,577 - Response sent: hi
+2024-08-25 18:59:42,578 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:43,602 - Message received: hello
+2024-08-25 18:59:43,604 - Response sent: hi
+2024-08-25 18:59:43,608 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:44,686 - Message received: hello
+2024-08-25 18:59:44,686 - Response sent: hi
+2024-08-25 18:59:44,686 - "POST /message/ HTTP/1.1" 200 18
+2024-08-25 18:59:45,709 - Message received: hello
+2024-08-25 18:59:45,710 - Response sent: hi
+2024-08-25 18:59:45,712 - "POST /message/ HTTP/1.1" 200 18
